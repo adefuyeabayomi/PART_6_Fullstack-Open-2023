@@ -1,0 +1,59 @@
+{
+  "anecdotes": [
+    {
+      "content": "If it hurts, do it more often",
+      "id": "73441",
+      "votes": 0
+    },
+    {
+      "content": "Adding manpower to a late software project makes it later!",
+      "votes": 2,
+      "id": "4841"
+    },
+    {
+      "content": "The first 90 percent of the code accounts for the first 90 percent of the development time...The remaining 10 percent of the code accounts for the other 90 percent of the development time.",
+      "id": "17894",
+      "votes": 0
+    },
+    {
+      "content": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+      "votes": 6,
+      "id": "86929"
+    },
+    {
+      "content": "Premature optimization is the root of all evil.",
+      "id": "19449",
+      "votes": 0
+    },
+    {
+      "content": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.",
+      "votes": 3,
+      "id": "78492"
+    },
+    {
+      "content": "No matter the economy of the jungle, the lion will never eat grass",
+      "votes": 0,
+      "id": "jZn2JvB"
+    },
+    {
+      "content": "No matter the economy of the jungle, the lion will never eat grass",
+      "votes": 0,
+      "id": "s5YdSne"
+    },
+    {
+      "content": "Even if a cat falls in the ocean, it can never become a catfish. Release the beast",
+      "votes": 0,
+      "id": "5s54myF"
+    },
+    {
+      "content": "gwgewe",
+      "votes": 0,
+      "id": "43b3bSr"
+    },
+    {
+      "content": "No matter the economy of the jungle, the lion will never eat grass",
+      "votes": 0,
+      "id": "owYyaQt"
+    }
+  ]
+}
